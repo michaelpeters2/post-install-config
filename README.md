@@ -63,6 +63,7 @@ Configure Agents (workers)
 - From Admin Panel -> Agents -> Add New
 - Create Jane -> Access -> Department: System Administrator -> Role: Supreme Admin
 - From Teams -> Level 2 Support
+- From Admin Panel -> Access -> Extended Access Support: Supreme Admin
 - Create John -> Access -> Department: Support -> Role: View Only
 - Set both passwords as Password1. *Don't Require Change*
 
